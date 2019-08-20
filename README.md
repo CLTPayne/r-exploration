@@ -22,3 +22,6 @@ You'll need to install a few things.  We can do that together or you can do it i
 
 ### Advanced R 
 - https://adv-r.hadley.nz/control-flow.html 
+
+### Think about
+- d3 - https://d3js.org/
